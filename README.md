@@ -1,3 +1,7 @@
+
+<img width="1435" alt="Screen Shot 2023-10-26 at 00 01 09" src="https://github.com/angelafeliciaa/angela-felicia/assets/124738657/8e983065-b070-4704-80cb-02ec1b8a582a">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
