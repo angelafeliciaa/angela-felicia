@@ -1,6 +1,5 @@
 
-<img width="1435" alt="Screen Shot 2023-10-26 at 00 01 09" src="https://github.com/angelafeliciaa/angela-felicia/assets/124738657/8e983065-b070-4704-80cb-02ec1b8a582a">
-
+<img width="1440" alt="PersonalWebsiteScreenshooot" src="https://github.com/angelafeliciaa/angela-felicia/assets/124738657/5f662280-0071-44c3-a871-6154fab07b2c">
 
 # Getting Started with Create React App
 
