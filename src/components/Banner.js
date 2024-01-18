@@ -52,7 +52,14 @@ export const Banner = () => {
                         <h1>{`Hi, I'm Angela! \n`}</h1>
                         <h1><span className="wrap">{text}</span></h1>
                         <p>A sophomore studying Statistics with a Computer Science concentration. My focus and interests revolve around the fields of web development, UI/UX design, and VR/AR development.</p>
-                        <button onClick={() => console.log('connect')}></button>
+                        <a href="https://www.linkedin.com/in/angela-feliciaa/" 
+                           target="_blank" 
+                           rel="noopener noreferrer" 
+                           className="connect-button">
+                            <button onClick={() => console.log('connect')}>
+                                Let's Connect <ArrowRightCircle size={25} />
+                            </button>
+                        </a>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
                         {/* <img src={headerImg} alt="Header img" /> */}
