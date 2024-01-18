@@ -11,21 +11,24 @@ import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
 
-const projects = [
+  const projects = [
     {
       title: "DisaBlend",
       description: "Figma prototype of a job-portal app tailored for the disabled",
       imgUrl: projImg1,
+      githubUrl: "https://github.com/angelafeliciaa/DisaBlend",
     },
     {
       title: "Rantify",
       description: "A journaling & self-evaluation service for users",
       imgUrl: projImg2,
+      githubUrl: "https://github.com/angelafeliciaa/Rantify",
     },
     {
       title: "CraveList",
       description: "A restaurant review app built with Java",
       imgUrl: projImg3,
+      githubUrl: "https://github.com/angelafeliciaa/CraveList",
     },
   ];
 
@@ -57,7 +60,7 @@ const projects = [
                               <ProjectCard
                                 key={index}
                                 {...project}
-                                />
+                              />
                             )
                           })
                         }
