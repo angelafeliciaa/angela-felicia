@@ -306,7 +306,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /* FRACTAL TREE CSS */
 #fractal-tree {
   padding-bottom: 50px;
-  padding-right: 10px;
+  padding-right: 5px; /* Decrease right padding */
+  margin-top: -20px; /* Add negative top margin to move upwards */
 }
 
 #fractal-tree .p5Canvas {
