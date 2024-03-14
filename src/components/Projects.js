@@ -40,7 +40,7 @@ export const Projects = () => {
       title: "LoveAlarm",
       description: "An app that allows users to anonymously connect with others within a 10-metre radius",
       imgUrl: lovealarm,
-      githubUrl: "https://github.com/angelafeliciaa/DisaBlend",
+      githubUrl: "https://github.com/angelafeliciaa/LoveAlarm",
     },
     {
       title: "Judicial Interrogatory Simulator",
